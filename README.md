@@ -1,4 +1,4 @@
-# QoS-aware Optimal Deployment of LoRa Gateways in UAV-enabled LoRaWANs
+# Optimal Dynamic Positioning of LoRa Gateways Considering Channel Modeling to Assure QoS for IoT Network Slices
 
 
 <p align='center' style="margin-bottom: -4px">William T. P. Junior, Daniel C. da Silva</p>
